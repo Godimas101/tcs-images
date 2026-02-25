@@ -8,12 +8,17 @@ The official image repository for **The Canadian Space** projects. Store once, r
 
 ## What Lives Here? 📸
 
-- 🎨 **Social media graphics** (the pretty ones)
-- 🚀 **Space-related imagery** (rockets, satellites, the void)
-- 📊 **Charts & diagrams** (making data look good since 2026)
-- 🎭 **Logos & branding** (our visual identity)
-- 🔧 **Workflow screenshots** (proof that automation works)
-- ✨ **Whatever else needs pixels** (we don't judge)
+### Current Content
+
+- 📱 **Social Media Graphics** - Images for posts, banners, and promotional content across platforms
+- 📚 **Monthly Deep-Dives** - Visual assets for in-depth monthly articles and features
+
+### Coming Soon
+
+- 🚀 **Space Imagery** - Rockets, satellites, and mission graphics
+- 🎭 **Branding Assets** - Logos and brand identity
+- 📊 **Charts & Diagrams** - Data visualization and infographics
+- 🔧 **Workflow Screenshots** - Documentation and tutorials
 
 ## Why a Separate Repo?
 
@@ -35,20 +40,12 @@ Because storing images in code repos is like storing milk in a toolbox — techn
 
 ### Organization
 
-Keep it tidy, keep it organized:
+Current structure (expanding as The Canadian Space grows):
 
 ```
 tcs-images/
-├── social-media/
-│   ├── twitter/
-│   └── linkedin/
-├── workflows/
-│   └── screenshots/
-├── branding/
-│   ├── logos/
-│   └── banners/
-└── misc/
-    └── (the chaos folder)
+├── social-media/       # Content for Twitter, Facebook, Instagram, etc.
+└── monthly-deep-dives/ # Visual assets for monthly feature articles
 ```
 
 ## Rules of the Road
