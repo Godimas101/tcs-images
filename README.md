@@ -13,13 +13,6 @@ The official image repository for **The Canadian Space** projects. Store once, r
 - 📱 **Social Media Graphics** - Images for posts, banners, and promotional content across platforms
 - 📚 **Monthly Deep-Dives** - Visual assets for in-depth monthly articles and features
 
-### Coming Soon
-
-- 🚀 **Space Imagery** - Rockets, satellites, and mission graphics
-- 🎭 **Branding Assets** - Logos and brand identity
-- 📊 **Charts & Diagrams** - Data visualization and infographics
-- 🔧 **Workflow Screenshots** - Documentation and tutorials
-
 ## Why a Separate Repo?
 
 Because storing images in code repos is like storing milk in a toolbox — technically possible, but why?
