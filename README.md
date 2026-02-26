@@ -16,12 +16,14 @@ The official image repository for **The Canadian Space** projects. Store once, r
 ## Why a Separate Repo?
 
 Because storing images in code repos is like storing milk in a toolbox — technically possible, but why?
+The real question is why not!??!
 
 **Benefits:**
 - 🔗 **Direct linking** via GitHub raw URLs
 - 📦 **Keeps other repos light** (nobody likes bloat)
 - 🔄 **Version control for assets** (yes, even images have history)
 - 🎯 **Centralized asset management** (one place to rule them all)
+- 💪 **No flaky free image hosting** (reliable, always available, no ads)
 
 ## Usage
 
