@@ -1,0 +1,28 @@
+# AI assistant instruction files — private, not for commit
+CLAUDE.md
+
+# Environment and secrets
+.env
+.env.local
+*.key
+*secret*
+*credential*
+*password*
+.mcp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Temp/logs
+*.tmp
+*.log
+.cache/
+node_modules/
+
