@@ -1,12 +1,18 @@
-# 🖼️ TCS Images - The Digital Gallery
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,45:0891B2,100:38BDF8&text=TCS%20Images&fontColor=ffffff&fontAlignY=35&fontSize=32&desc=Shared%20graphics%20and%20visual%20assets%20for%20The%20Canadian%20Space&descAlignY=57&descSize=18" />
+</p>
 
-> **"A picture is worth a thousand tokens."** — An AI, probably
+> **"Store it once, link it everywhere, and let the pixels do the heavy lifting."**
 
-## What's This?
+The official image library for **The Canadian Space**. Social graphics, article art, and reusable visual assets live here so the other repos can stay lean and the site can point to one consistent source.
 
-The official image repository for **The Canadian Space** projects. Store once, reference everywhere. Think of it as our own personal CDN, minus the bills.
+## 🚀 Quick Start
 
-## What Lives Here? 📸
+1. Drop the image into the right folder for the project or campaign
+2. Link to it with a GitHub raw URL from the site, workflows, or docs
+3. Keep filenames descriptive and optimize before upload
+
+## ✨ What lives here
 
 ### Current Content
 
