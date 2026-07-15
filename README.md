@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,45:0891B2,100:38BDF8&text=%20TCS%20Images%20&fontColor=ffffff&fontAlignY=35&fontSize=32&textBg=true&desc=Shared%20graphics%20and%20visual%20assets%20for%20The%20Canadian%20Space&descAlignY=57&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:020617,45:0891B2,100:38BDF8&text=%20TCS%20Images%20&fontColor=ffffff&fontAlignY=42&fontSize=30&textBg=true&desc=Shared%20graphics%20and%20visual%20assets%20for%20The%20Canadian%20Space&descAlignY=68&descSize=17" />
+</p>
+
+<p align="center">
+  <a href="https://thecanadian.space"><img src="https://img.shields.io/badge/The%20Canadian%20Space-space%20blog-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="TCS" /></a>
+  <a href="https://github.com/Godimas101/tcs-images/issues/new"><img src="https://img.shields.io/badge/Report%20a%20bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug" /></a>
+  <img src="https://img.shields.io/badge/Under-Godimas101-181717?style=for-the-badge&logo=github&logoColor=white" alt="Godimas101" />
 </p>
 
 > **"Store it once, link it everywhere, and let the pixels do the heavy lifting."**
@@ -69,6 +75,27 @@ tcs-images/
 - Every pixel tells a story
 - This README is technically an image description
 - We believe in the Oxford comma
+
+## 🏠 Why is this under Godimas101 and not The-Canadian-Space?
+
+`tcs-images` intentionally stays under `Godimas101/` (not the `The-Canadian-Space` org) to preserve WordPress URL stability. Hundreds of published blog posts reference images by their `raw.githubusercontent.com/Godimas101/tcs-images/...` URLs; moving the repo would break every one of those links.
+
+## 🐛 Found a bug?
+
+- **[Open an issue](https://github.com/Godimas101/tcs-images/issues/new)** — for missing images, broken links, or organizational suggestions
+- If a specific image is broken, include the URL where you saw the broken link
+
+## 🔗 Related
+
+- **Main site:** [thecanadian.space](https://thecanadian.space)
+- **Public wiki:** [wiki.thecanadian.space](https://wiki.thecanadian.space)
+- **[TCS org](https://github.com/The-Canadian-Space)** — most other TCS repos live here
+
+## 🧡 Support
+
+TCS is a personal project + portfolio piece. **Patreon** is where the running project log lives.
+
+[![Support on Patreon](https://raw.githubusercontent.com/Godimas101/personal-projects/main/patreon/images/buttons/patreon-medium.png)](https://patreon.com/Godimas101)
 
 ---
 
