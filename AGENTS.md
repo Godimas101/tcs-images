@@ -29,5 +29,5 @@ Result: the URLs in every published TCS article would 404. Not acceptable.
 
 ## Related docs
 
-- [Docs site](https://the-canadian-space.github.io/tcs-docs/)
+- [Docs site](https://docs.thecanadian.space/)
 - Top-level [AGENTS.md](../AGENTS.md) for env access
