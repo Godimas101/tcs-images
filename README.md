@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://thecanadian.space"><img src="https://img.shields.io/badge/The%20Canadian%20Space-space%20blog-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="TCS" /></a>
-  <a href="https://github.com/Godimas101/tcs-images/issues/new"><img src="https://img.shields.io/badge/Report%20a%20bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug" /></a>
-  <img src="https://img.shields.io/badge/Under-Godimas101-181717?style=for-the-badge&logo=github&logoColor=white" alt="Godimas101" />
+  <a href="https://github.com/The-Canadian-Space/tcs-images/issues/new"><img src="https://img.shields.io/badge/Report%20a%20bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug" /></a>
+  <img src="https://img.shields.io/badge/Under-The--Canadian--Space-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="TCS" />
 </p>
 
 > **"Store it once, link it everywhere, and let the pixels do the heavy lifting."**
@@ -42,7 +42,7 @@ The real question is why not!??!
 ### Linking Images
 
 ```markdown
-![Alt text](https://raw.githubusercontent.com/Godimas101/tcs-images/main/path/to/image.png)
+![Alt text](https://raw.githubusercontent.com/The-Canadian-Space/tcs-images/main/path/to/image.png)
 ```
 
 ### Organization
@@ -76,13 +76,17 @@ tcs-images/
 - This README is technically an image description
 - We believe in the Oxford comma
 
-## 🏠 Why is this under Godimas101 and not The-Canadian-Space?
+## 🏠 History note
 
-`tcs-images` intentionally stays under `Godimas101/` (not the `The-Canadian-Space` org) to preserve WordPress URL stability. Hundreds of published blog posts reference images by their `raw.githubusercontent.com/Godimas101/tcs-images/...` URLs; moving the repo would break every one of those links.
+**Moved from `Godimas101/tcs-images` → `The-Canadian-Space/tcs-images` on 2026-07-16.**
+
+Originally kept under `Godimas101/` to preserve WordPress URL stability — hundreds of live articles link to `raw.githubusercontent.com/…/tcs-images/…` and we were worried the move would 404 every image. GitHub's automatic repo-transfer redirect handles the raw URLs transparently, so the move is safe. Old URLs continue to resolve.
+
+If a WordPress article shows a broken image, first check whether it's a legitimate 404 (image doesn't exist at either owner) vs a redirect issue (rare). Fix by updating the article's `raw.githubusercontent.com/Godimas101/tcs-images/…` URL to the new `raw.githubusercontent.com/The-Canadian-Space/tcs-images/…` form.
 
 ## 🐛 Found a bug?
 
-- **[Open an issue](https://github.com/Godimas101/tcs-images/issues/new)** — for missing images, broken links, or organizational suggestions
+- **[Open an issue](https://github.com/The-Canadian-Space/tcs-images/issues/new)** — for missing images, broken links, or organizational suggestions
 - If a specific image is broken, include the URL where you saw the broken link
 
 ## 🔗 Related

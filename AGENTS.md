@@ -1,16 +1,16 @@
 # AGENTS.md — tcs-images
 
-**Article images hard-linked from published WordPress posts. UNDER GODIMAS101, NOT under The-Canadian-Space. Intentional — do not migrate.**
+**Article images hard-linked from published WordPress posts. Now under `The-Canadian-Space` — moved 2026-07-16 from `Godimas101`.**
 
 > **First-time context:** start with the top-level [AGENTS.md](../AGENTS.md) in the working directory. This file is repo-specific.
 
-## Why this repo stays under Godimas101
+## History note — the 2026-07-16 move
 
-Every image in this repo is referenced by a live WordPress post via a `raw.githubusercontent.com/Godimas101/tcs-images/...` URL. If this repo moves to another org, all those URLs break — GitHub's 301 redirect covers repo pages but **`raw.githubusercontent.com` does not follow transfer redirects**.
+Originally kept under `Godimas101/tcs-images` because we thought `raw.githubusercontent.com` did NOT follow transfer redirects — moving would 404 every image referenced by every live WordPress post.
 
-Result: the URLs in every published TCS article would 404. Not acceptable.
+Chris tested this on 2026-07-16 and it turned out **the raw URLs DO redirect**. Old links continue to resolve transparently. So the "URL stability exception" was retired and this repo moved home to where it belongs — inside the TCS org.
 
-**Decision locked in during the 2026-07-12 org migration.** Every other TCS repo moved to `The-Canadian-Space`; this one stays.
+**Still true:** hundreds of live WP articles reference images by their exact path. Never rename, move, or delete an image once it's been committed. The redirect handles the OWNER swap; it does NOT handle path or filename changes.
 
 ## Working principles
 
